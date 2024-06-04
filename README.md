@@ -22,14 +22,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/gauri-sharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauri-sharan" height="30" width="40" /></a>
 <a href="https://huggingface.co/gaurisharan" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="gauri-sharan" height="30" width="40" /></a>
 -->
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurisharan&show_icons=true&theme=gruvbox)
-
-![Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurisharan&layout=compact&&langs_count=8)
-
-
+<!--![Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurisharan&layout=compact&&langs_count=8)-->
 </p>
 
 
