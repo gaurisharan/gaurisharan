@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurisharan&show_icons=true&theme=gruvbox)
 
+![Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurisharan&layout=compact&&langs_count=8)
+
 
 </p>
 
