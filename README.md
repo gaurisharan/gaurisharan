@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 <a href="https://huggingface.co" target="_blank" rel="noreferrer">
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
 </a>
-<a href="https://jax.readthedocs.io/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Google_JAX_logo.svg" alt="jax" width="40" height="40"/>
+<a href="https://mlflow.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mlflow.svg" alt="mlflow" width="40" height="40"/>
 </a>
-
 </p>
 
 <!--
