@@ -1,4 +1,4 @@
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+### Hi there! 🤗
 
 I'm [**Gauri Sharan**](https://gaurisharan.github.io), a Data Scientist based in India :)
 
