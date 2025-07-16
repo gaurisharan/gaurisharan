@@ -20,7 +20,7 @@ I enjoy building data products that are useful, reliable, and impactful. I’m i
 <!--![Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurisharan&layout=compact&&langs_count=8)-->
 
 ### Let's connect!
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/gaurisharan)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/gaurisharan) [<img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-%23FFCC00.svg?&style=for-the-badge&logo=huggingface&logoColor=black" />](https://huggingface.co/gauri-sharan)
 
 
 
