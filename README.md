@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm [**Gauri Sharan**](https://gazijarin.com), a Data Scientist based in India :)
+I'm [**Gauri Sharan**](https://gaurisharan.github.com), a Data Scientist based in India :)
 
 I currently work at National Payments Corporation of India, [**NPCI**](https://github.com/npci), India's central FinTech organization. Previously, I was at [**NASSCOM**](https://www.linkedin.com/company/nasscom-india), did some research work for [**IIT Roorkee**](https://www.linkedin.com/school/indian-institute-of-technology-roorkee), and worked for a bunch of remote international orgs.
 
