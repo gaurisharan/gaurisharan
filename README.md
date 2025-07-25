@@ -9,7 +9,7 @@ I enjoy building data products that are useful, reliable, and impactful. I’m i
 <!--Outside of work, I'm interested in following the developments of science. I make [art](https://polyliths.tumblr.com/), play video games and make tech-related content (over 1M+ combined followers and counting).-->
 [<img alt="GitHub.io" src="https://img.shields.io/badge/GitHub.io-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />](https://gaurisharan.github.io)
 [<img alt="Projects" src="https://img.shields.io/badge/Projects-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://datascienceportfol.io/gaurisharan)
-[<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23FFCC00.svg?&style=for-the-badge" />](https://gaurisharan.my.canva.site)
+[<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%2300C853.svg?&style=for-the-badge" />](https://gaurisharan.my.canva.site)
 
 
 
