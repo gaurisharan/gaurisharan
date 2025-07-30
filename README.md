@@ -4,7 +4,7 @@ I'm [**Gauri Sharan**](https://gaurisharan.github.io), a Data Scientist based in
 
 I currently work at National Payments Corporation of India - [**NPCI**](https://github.com/npci), India's central FinTech organization. Previously, I was at [**NASSCOM**](https://www.linkedin.com/company/nasscom-india), did some research work for [**IIT Roorkee**](https://www.linkedin.com/school/indian-institute-of-technology-roorkee), and worked for a bunch of remote international orgs.
 
-I enjoy building data products that are useful, reliable, and impactful. I’m inspired by the idea that good data science isn’t just about building models, but about making decisions easier and better.
+I enjoy building data and AI products that are useful, reliable, and impactful. I’m inspired by the idea that good data science isn’t just about building models, but about making decisions easier and better.
 
 <!--Outside of work, I'm interested in following the developments of science. I make [art](https://polyliths.tumblr.com/), play video games and make tech-related content (over 1M+ combined followers and counting).-->
 [<img alt="GitHub.io" src="https://img.shields.io/badge/GitHub.io-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />](https://gaurisharan.github.io)
