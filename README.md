@@ -3,7 +3,9 @@
 I'm [**Gauri Sharan**](https://gaurisharan.github.io).
 
 [<img alt="GitHub.io" src="https://img.shields.io/badge/GitHub.io-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />](https://gaurisharan.github.io)
+<!--
 [<img alt="Projects" src="https://img.shields.io/badge/Projects-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://datascienceportfol.io/gaurisharan)
+-->
 
 
 
