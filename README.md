@@ -7,7 +7,7 @@ I'm [**Gauri Sharan**](https://gaurisharan.github.io).
 [<img alt="Projects" src="https://img.shields.io/badge/Projects-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://datascienceportfol.io/gaurisharan)
 -->
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,c,docker,gcp,git,hadoop,java,kafka,kubernetes,linux,matlab,mongodb,mysql,opencv,oracle,postgres,python,pytorch,sklearn,selenium,tensorflow&perrow=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,c,docker,gcp,git,java,kafka,kubernetes,linux,mongodb,mysql,opencv,postgres,python,pytorch,sklearn,selenium,tensorflow&perrow=15)](https://skillicons.dev)
 
 
 ### Let's connect!
